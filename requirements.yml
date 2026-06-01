@@ -1,0 +1,19 @@
+name: oqs-digiq
+channels:
+  - defaults
+dependencies:
+  - pip=23.3
+  - python=3.11
+  - pip:
+      - ipykernel
+      - ipython
+      - jupyter
+      - latexcodec
+      - matplotlib
+      - notebook
+      - numpy
+      - qiskit
+      - qiskit-experiments
+      - qiskit-ibm-runtime
+      - qiskit-aer
+      - pylatexenc
