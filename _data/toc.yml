@@ -18,41 +18,41 @@
   title: Index
   not_numbered: true
 
-- title: Getting started
+- title: Aloitus
   url: /getting_started
-- header: Projects
+- header: Projektit
 
 - url: /project_1-depolarizing_channel
-  title: "Project 1: Depolarizing channel"
+  title: "Projekti 1: Depolarisoiva kanava"
   not_numbered: true
   sections:
   - url: /project_1-solution
-    title: Solution
+    title: Ratkaisu
 
 - url: /project_2-pauli_channel
-  title: "Project 2: Pauli channel"
+  title: "Projekti 2: Paulin kanava"
   not_numbered: true
   sections:
   - url: /project_2-solution
-    title: Solution
+    title: Ratkaisu
 
 - url: /project_3-reservoir-engineering
-  title: "Project 3: Reservoir engineering"
+  title: "Projekti 3: Markovin varasto -tekniikka"
   not_numbered: true
   sections:
   - url: /project_3-solution
-    title: Solution
+    title: Ratkaisu
 
 - url: /project_4-amplitude_damping
-  title: "Project 4: Amplitude damping"
+  title: "Projekti 4: Amplitudin vaimennus"
   not_numbered: true
   sections:
   - url: /project_4-solution
-    title: Solution
+    title: Ratkaisu
 
 - url: /final_project
-  title: "Final Project: Pauli Twirling"
+  title: "Lopullinen projekti: Pauli Twirling"
   not_numbered: true
   sections:
   - url: /final_project-solutions
-    title: Solution
+    title: Ratkaisu
