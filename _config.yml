@@ -119,7 +119,7 @@ defaults:
     values:
       layout: "default"
       toc: true
-      toc_label: "  On this page"
+      toc_label: "  Tällä sivulla"
       toc_icon: "list-ul"
       excerpt: ''
 
