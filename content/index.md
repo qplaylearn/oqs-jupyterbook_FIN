@@ -1,3 +1,7 @@
+<div>
+🇬🇧 <a href="https://qplaylearn.github.io/oqs-jupyterbook/">English</a> | 🇮🇹 <a href="https://qplaylearn.github.io/oqs-jupyterbook_ITA/">Italiano</a>
+</div>
+
 <img src="images/oqs_title_.jpg"/>
 
 Tämä projektisarja perustuu kurssiin **Open Quantum Systems (OQS) with Qiskit**  (Avoimet kvanttisysteemit Qiskitillä), joka esittlee avointen kvanttisysteemien perusteet ja tärkeimmät käsitteet. Alkuperäinen kurssi tarjosi uudenlaisen lähestymistavan avoimiin kvanttisysteemeihin: opiskelijat pääsivät simuloimaan monia tyypillisiä esimerkkejä niiden dynamiikaasta [Qiskitillä] (https://qiskit.org) ja [IBM Quantum Platformilla](https://quantum-computing.ibm.com). Kurssin idea on peräisin julkaisusta ([García-Pérez, Rossi, Maniscalco, NPJ Quantum Inform. 6, 1 (2020)](https://www.nature.com/articles/s41534-019-0235-y)), jossa kirjoittajat näyttävät, että IBM Quantum Platform on monipuolinen ja vahva alusta avoimien kvanttisysteemien simuloimiseen. 
